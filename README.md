@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <h1>Hi, I'm Kudzaishe! <br/></h1>
   <h2><a href="https://github.com/CyberproSec">Information Security Engineer</a></br> 
-    <a href="https://www.linkedin.com/in/kudzaishe-rutsinga/">Aspiring Cloud Security Architect</a></h2>
+    <a href="https://www.linkedin.com/in/kudzaishe-rutsinga/">IT Support Specialist | Specializing in Cloud Identity (Entra ID) & Automation (PowerShell)</a></h2>
 </div>
 
 <div id="projects">
