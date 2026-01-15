@@ -12,10 +12,6 @@
       <a href="https://github.com/CyberproSec/Active-Directory-Lab">Deployment and Security Monitoring</a> — Setting up domain controllers and monitoring for brute-force attacks.
     </li>
     <li>
-      <b>Software Development & Security</b><br>
-      <a href="https://github.com/CyberproSec/link-here">Java/Spring Boot Secure App</a> — Implementation of secure coding practices and database integrity.
-    </li>
-    <li>
       <b>Automation & Scripting</b><br>
       <a href="https://github.com/CyberproSec/link-here">Python Security Scripts</a> — Automating data privacy tasks and system checks.
     </li>
