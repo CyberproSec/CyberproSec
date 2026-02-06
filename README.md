@@ -4,18 +4,13 @@
     <a href="https://www.linkedin.com/in/kudzaishe-rutsinga/">IT Support Specialist | Specializing in Cloud Identity (Entra ID) & Automation</a></h2>
 </div>
 
-<div id="projects">
+<div id="projects" style:">
   <h2>👨‍💻 Cybersecurity Projects</h2>
-  <ul>
-    <li>
-      <b>Active Directory Home Lab</b><br>
-      <a href="https://github.com/CyberproSec/Active-Directory-Lab">Deployment and Security Monitoring</a> — Setting up domain controllers and monitoring for brute-force attacks.
-    </li>
-    <li>
-      <b>Automation & Scripting</b><br>
-      <a href="https://github.com/CyberproSec/link-here">Python Security Scripts</a> — Automating data privacy tasks and system checks.
-    </li>
-  </ul>
+
+  
+Microsoft Entra ID: Enterprise Identity Governance & Zero Trust Architecture
+(In Progress) ██████░░░░░░░░░░░░░░ 30%
+
 </div>
 
 <div id="certifications">
@@ -44,7 +39,7 @@
 
 <div id="linkedin-bio">
     <p>
-      <a href="https://www.linkedin.com/in/kudzaishe-rutsinga/" style="text-decoration: none; color: inherit;">
+     Thank you for visiting my page! Feel free to connect with me on  <a href="https://www.linkedin.com/in/kudzaishe-rutsinga/" style="text-decoration: none; color: inherit;">
        LinkedIn
       </a>
     </p>
