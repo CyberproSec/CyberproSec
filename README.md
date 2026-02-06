@@ -8,7 +8,7 @@
   <h2>👨‍💻 Cybersecurity Projects</h2>
 
   
-Microsoft Entra ID: Enterprise Identity Governance & Zero Trust Architecture
+<a href="https://github.com/CyberproSec/IAM-Zero-Trust-Lab?tab=readme-ov-file#enterprise-identity-governance--zero-trust-architecture">Microsoft Entra ID: Enterprise Identity Governance & Zero Trust Architecture</a>
 (In Progress) ██████░░░░░░░░░░░░░░ 30%
 
 </div>
